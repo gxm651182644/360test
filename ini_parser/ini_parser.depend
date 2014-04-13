@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1397384904 source:c:\users\gxm\desktop\÷ÏΩ‹\ini_parser.cc
+	"ini_parser.h"
+	<string>
+	<iostream>
+
+1397384490 c:\users\gxm\desktop\÷ÏΩ‹\ini_parser.h
+	<string>
+	<map>
+
+1397384768 source:c:\users\gxm\desktop\÷ÏΩ‹\main.cc
+	"ini_parser.h"
+	<cstring>
+	<assert.h>
+
+1397388526 source:c:\users\gxm\desktop\zhujie\ini_parser.cc
+	"ini_parser.h"
+	<string>
+	<iostream>
+
+1397387417 c:\users\gxm\desktop\zhujie\ini_parser.h
+	<string>
+	<map>
+
+1397389612 source:c:\users\gxm\desktop\zhujie\main.cc
+	"ini_parser.h"
+	<cstring>
+	<assert.h>
+
+1397388526 source:c:\users\gxm\documents\github\360test\ini_parser\ini_parser.cc
+	"ini_parser.h"
+	<string>
+	<iostream>
+
+1397387417 c:\users\gxm\documents\github\360test\ini_parser\ini_parser.h
+	<string>
+	<map>
+
+1397390062 source:c:\users\gxm\documents\github\360test\ini_parser\main.cc
+	"ini_parser.h"
+	<cstring>
+	<assert.h>
+

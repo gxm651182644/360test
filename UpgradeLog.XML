@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="interview">
+</Property><Property Name="Solution File" Value="C:\Users\gxm\Documents\GitHub\360test\interview.sln">
+</Property><Property Name="Date" Value="2014年4月11日">
+</Property><Property Name="Time" Value="11:42">
+</Property></Properties><Event ErrorLevel="0" Project="proxy_url" Source="proxy_url\proxy_url.vcproj" Description="Converting project file 'C:\Users\gxm\Documents\GitHub\360test\proxy_url\proxy_url.vcproj'.">
+</Event><Event ErrorLevel="1" Project="proxy_url" Source="proxy_url\proxy_url.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="proxy_url" Source="proxy_url\proxy_url.vcproj" Description="Done converting to new project file 'C:\Users\gxm\Documents\GitHub\360test\proxy_url\proxy_url.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="proxy_url" Source="proxy_url\proxy_url.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="string" Source="string\string.vcproj" Description="Converting project file 'C:\Users\gxm\Documents\GitHub\360test\string\string.vcproj'.">
+</Event><Event ErrorLevel="1" Project="string" Source="string\string.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="string" Source="string\string.vcproj" Description="Done converting to new project file 'C:\Users\gxm\Documents\GitHub\360test\string\string.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="string" Source="string\string.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="vector" Source="vector\vector.vcproj" Description="Converting project file 'C:\Users\gxm\Documents\GitHub\360test\vector\vector.vcproj'.">
+</Event><Event ErrorLevel="1" Project="vector" Source="vector\vector.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="vector" Source="vector\vector.vcproj" Description="Done converting to new project file 'C:\Users\gxm\Documents\GitHub\360test\vector\vector.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="vector" Source="vector\vector.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ini_parser" Source="ini_parser\ini_parser.vcproj" Description="Converting project file 'C:\Users\gxm\Documents\GitHub\360test\ini_parser\ini_parser.vcproj'.">
+</Event><Event ErrorLevel="1" Project="ini_parser" Source="ini_parser\ini_parser.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="ini_parser" Source="ini_parser\ini_parser.vcproj" Description="Done converting to new project file 'C:\Users\gxm\Documents\GitHub\360test\ini_parser\ini_parser.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="ini_parser" Source="ini_parser\ini_parser.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="interview.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="interview.sln" Description="Converted">
+</Event></UpgradeLog>

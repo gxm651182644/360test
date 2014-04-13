@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1397222245 source:c:\users\gxm\documents\github\360test\vector\main.cc
+	<stdlib.h>
+	"qh_vector.cc"
+
+1397221888 c:\users\gxm\documents\github\360test\vector\qh_vector.h
+	<iostream>
+
+1397221486 source:c:\users\gxm\documents\github\360test\vector\qh_vector.cc
+	<iostream>
+	"qh_vector.h"
+
+1397221486 c:\users\gxm\documents\github\360test\vector\qh_vector.cc
+	<iostream>
+	"qh_vector.h"
+

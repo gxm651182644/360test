@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1397223319 source:c:\users\gxm\documents\github\360test\proxy_url\main.cc
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"proxy_url/proxy_url_extractor.h"
+
+1397131938 c:\users\gxm\documents\github\360test\proxy_url\proxy_url\proxy_url_extractor.h
+	<string>
+	<set>
+	<set>
+
+1397273020 source:c:\users\gxm\documents\github\360test\proxy_url\proxy_url\proxy_url_extractor.cc
+	"proxy_url_extractor.h"
+	<fstream>
+	<vector>
+	"tokener.h"
+	<string>
+
+1397131938 c:\users\gxm\documents\github\360test\proxy_url\proxy_url\tokener.h
+	<assert.h>
+	<string.h>
+	<string>
+
